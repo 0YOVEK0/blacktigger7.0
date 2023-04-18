@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 55038d66421a90e4587247553d37fb4f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 504
+        width: 223
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c83ba5b7784fc488141398b9ae063a
+      internalID: -1156753500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 507
+        width: 243
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7b8c1ffdaf1c4393b0144ab3c0643
+      internalID: -1583440408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 507
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d5d7cb61076b24cad4d769c5dfe606
+      internalID: -1414780868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 507
+        width: 237
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb015ea0927454c906b3dc0c075ae3
+      internalID: 1187921829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 503
+        width: 254
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc41546f934749b488468eaedda531d1
+      internalID: 1046791843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 262
+        width: 235
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c43467be49892a45992cba60db5d921
+      internalID: 1507711629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 260
+        width: 249
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361827f0b7062ea4e986d738238328c1
+      internalID: 1162769176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 259
+        width: 249
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15e0b35efb810a4289a474e4e3020b0
+      internalID: 381471426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 259
+        width: 253
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb0b4b627ee504eaaaa686d15362dc
+      internalID: 1924989284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 259
+        width: 255
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d8b9659c510f44885df7f9cc5cb18
+      internalID: 1782936794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 240
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534dbea7a6a1f5f4ba627a3259b68b65
+      internalID: -321572431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 246
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d396e56ab381e5488c9a7dce3332b27
+      internalID: -379630843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 11
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead0dfb55093754fb818dad87488fe6
+      internalID: 991695360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 9
+        width: 248
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed89d820a76774a88c28b18ccc205a
+      internalID: 405888888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 13
+        width: 239
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497952eda9b69db44b252cdfab1899ff
+      internalID: -1681391312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_0: -1156753500
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_1: -1583440408
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_10: -321572431
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_11: -379630843
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_12: 991695360
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_13: 405888888
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_14: -1681391312
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_2: -1414780868
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_3: 1187921829
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_4: 1046791843
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_5: 1507711629
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_6: 1162769176
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_7: 381471426
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_8: 1924989284
+      dominic-garcia-tumblr-ojn6bb7cfk1w36evao1-1280-PhotoRoom.png-PhotoRoom_9: 1782936794
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
