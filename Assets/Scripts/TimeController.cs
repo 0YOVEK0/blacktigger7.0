@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class TimeController : MonoBehaviour
@@ -17,11 +18,6 @@ public class TimeController : MonoBehaviour
         enMarcha = true;
     }
 
-    void Start()
-    {
-        enMarcha = true;
-    }
-
     void Update()
     {
         if (enMarcha)
@@ -29,9 +25,9 @@ public class TimeController : MonoBehaviour
             restante -= Time.deltaTime;
             if (restante < 1)
             {
-                enMarcha = true;
-                //matar al jugador
-                PlayerController.muerteExterna = true;
+                enMarcha = false;
+                // reiniciar el juego
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             }
             int tempMin = Mathf.FloorToInt(restante / 60);
             int tempSeg = Mathf.FloorToInt(restante % 60);
