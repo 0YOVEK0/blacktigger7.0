@@ -9,7 +9,7 @@ public class TimeController : MonoBehaviour
     [SerializeField] int min, seg;
     [SerializeField] Text tiempo;
 
-    private float restante;
+    public float restante;
     private bool enMarcha;
 
     private void Awake()

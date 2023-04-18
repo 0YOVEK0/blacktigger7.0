@@ -6339,6 +6339,8 @@ MonoBehaviour:
   puntos: {fileID: 1595890962}
   botonCompraVida: {fileID: 517181926}
   botonCompraTiempo: {fileID: 1991429105}
+  timer: {fileID: 1480459519}
+  tiempo: {fileID: 1480459517}
 --- !u!212 &670930326
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15229,6 +15231,7 @@ MonoBehaviour:
   min: 3
   seg: 30
   tiempo: {fileID: 1480459517}
+  restante: 0
 --- !u!1 &1496222123
 GameObject:
   m_ObjectHideFlags: 0
