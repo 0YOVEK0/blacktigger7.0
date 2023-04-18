@@ -16,8 +16,6 @@ public class Tienda : MonoBehaviour
     private void Start()
     {
         tiendaUI.SetActive(false);
-        botonCompraVida.onClick.AddListener(ComprarVida);
-        botonCompraTiempo.onClick.AddListener(ComprarTiempo);
     }
 
     private void Update()
@@ -28,7 +26,6 @@ public class Tienda : MonoBehaviour
             tiendaUI.SetActive(false);
             Time.timeScale = 1.0f;
         }
-        puntos.text = "Puntos: " + gameManager.PuntosTotales.ToString();
 
         if (gameManager.PuntosTotales >= precioVida)
         {
@@ -58,7 +55,7 @@ public class Tienda : MonoBehaviour
     public void ComprarTiempo()
     {
         gameManager.PuntosTotales = gameManager.PuntosTotales - precioTiempo;
-        gameManager.TiempoTotal += 10f;
+        gameManager.TiempoTotal += 1f;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
